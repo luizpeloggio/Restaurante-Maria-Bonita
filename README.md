@@ -1,0 +1,2 @@
+Restaurante-Maria-Bonita
+"O Restaurante Maria Bonita é um projeto front-end fictício desenvolvido estritamente para fins educacionais e de portfólio. Ele apresenta uma landing page totalmente responsiva para um restaurante brasileiro, projetada para praticar e demonstrar habilidades em HTML5 semântico, CSS3 e jQuery. O projeto simula um cenário do mundo real com seções para história da gastronomia, vídeos de receitas e depoimentos interativos, destacando a capacidade de construir interfaces web estruturadas e visualmente atraentes sem conexão com back-end.
